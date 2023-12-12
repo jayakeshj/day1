@@ -1,0 +1,6 @@
+.body{
+    background-image: url('./jayakesh.jpg'); /* Replace 'your-image-url.jpg' with the actual path or URL of your image */
+        background-size: cover; /* This property ensures that the background image covers the entire body */
+        background-position: center; /* This property centers the background image */
+        background-repeat: no-repeat; /* This property ensures that the background image is not repeated */
+}
